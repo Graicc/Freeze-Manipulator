@@ -1,12 +1,10 @@
 ﻿using MelonLoader;
-using StressLevelZero;
 using BoneworksModdingToolkit;
 using UnityEngine;
 using StressLevelZero.Props.Weapons;
-using Il2CppSystem.Runtime.Remoting.Messaging;
 using StressLevelZero.Interaction;
-using UnityEngine.Experimental.PlayerLoop;
-using Il2CppSystem.Collections.Generic;
+using System.Collections.Generic;
+using BoneworksModdingToolkit.BoneHook;
 
 namespace Freeze_Manipulator
 {
@@ -15,7 +13,7 @@ namespace Freeze_Manipulator
         public const string Name = "Freeze_Manipulator"; // Name of the Mod.  (MUST BE SET)
         public const string Author = "Graic"; // Author of the Mod.  (Set as null if none)
         public const string Company = null; // Company that made the Mod.  (Set as null if none)
-        public const string Version = "1.0.0"; // Version of the Mod.  (MUST BE SET)
+        public const string Version = "1.0.1"; // Version of the Mod.  (MUST BE SET)
         public const string DownloadLink = null; // Download Link for the Mod.  (Set as null if none)
     }
 

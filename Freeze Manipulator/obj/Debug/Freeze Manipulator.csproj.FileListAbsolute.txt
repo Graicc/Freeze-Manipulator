@@ -1,7 +1,5 @@
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Freeze Manipulator.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Freeze Manipulator.pdb
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Assembly-CSharp-firstpass.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Assembly-CSharp.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\BoneworksModdingToolkit.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Boo.Lang.Compiler.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Boo.Lang.dll
@@ -9,11 +7,8 @@ C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Boo.
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Boo.Lang.Parser.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Boo.Lang.PatternMatching.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Boo.Lang.Useful.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\ch.sycoforge.Decal.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\com.unity.postprocessing.Runtime.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Commons.Xml.Relaxng.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\cscompmgd.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Facepunch.Steamworks.Win64.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\I18N.CJK.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\I18N.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\I18N.MidEast.dll
@@ -22,6 +17,31 @@ C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\I18N
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\I18N.West.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\IBM.Data.DB2.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\MelonLoader.ModHandler.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\TextMeshPro-1.0.55.2017.2.0b12.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\SteamVR.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Oculus.VR.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnhollowerRuntimeLib.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\BoneworksModdingToolkit.xml
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\obj\Debug\Freeze Manipulator.csprojAssemblyReference.cache
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\obj\Debug\Freeze Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\obj\Debug\Freeze Manipulator.csproj.CopyComplete
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\obj\Debug\Freeze Manipulator.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\obj\Debug\Freeze Manipulator.pdb
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Assembly-CSharp.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\ch.sycoforge.Decal.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\com.unity.postprocessing.Runtime.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Il2Cppmscorlib.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Il2CppSystem.Configuration.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Il2CppSystem.Core.dll
@@ -29,7 +49,6 @@ C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Il2C
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Il2CppSystem.Runtime.Serialization.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Il2CppSystem.Xml.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Il2CppSystem.Xml.Linq.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\MelonLoader.ModHandler.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnhollowerBaseLib.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.CoreModule.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.PhysicsModule.dll
@@ -51,26 +70,5 @@ C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Unit
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.VRModule.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.WindModule.dll
 C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.XRModule.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityScript.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityScript.Lang.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Valve.Newtonsoft.Json.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.AnimationModule.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\TextMeshPro-1.0.55.2017.2.0b12.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.Physics2DModule.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.AudioModule.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.AIModule.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.ParticleSystemModule.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\SteamVR.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.IMGUIModule.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.ClothModule.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Oculus.VR.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.DirectorModule.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnhollowerRuntimeLib.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.AssetBundleModule.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\UnityEngine.GridModule.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\BoneworksModdingToolkit.xml
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\obj\Debug\Freeze Manipulator.csprojAssemblyReference.cache
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\obj\Debug\Freeze Manipulator.csproj.CoreCompileInputs.cache
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\obj\Debug\Freeze Manipulator.csproj.CopyComplete
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\obj\Debug\Freeze Manipulator.dll
-C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\obj\Debug\Freeze Manipulator.pdb
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Il2CppMono.Security.dll
+C:\Users\craig\source\repos\Freeze Manipulator\Freeze Manipulator\bin\Debug\Iced.dll
